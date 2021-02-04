@@ -1,0 +1,57 @@
+ip,http_status_code,intenum_netname,intenum_descr,route_route,route_descr,route_asn,rdns
+145.236.102.117,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,145.236.0.0/16," Hungarian Telecom Public Internet Access Provider Budapest, Hungary HU", AS5483,91ec6675.dsl.pool.telekom.hu
+145.236.102.117,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,145.236.0.0/16," Hungarian Telecom Public Internet Access Provider Budapest, Hungary HU", AS5483,91ec6675.dsl.pool.telekom.hu
+145.236.8.174,200, MT-BROADBAND-DYNAMIC-KTV, Magyar Telekom customers using dynamic IP CATV access,145.236.0.0/16," Hungarian Telecom Public Internet Access Provider Budapest, Hungary HU", AS5483,91ec08ae.catv.pool.telekom.hu
+149.200.16.86,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,149.200.0.0/17, T-Mobile Hungary, AS5483,95c81056.dsl.pool.telekom.hu
+149.200.16.86,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,149.200.0.0/17, T-Mobile Hungary, AS5483,95c81056.dsl.pool.telekom.hu
+149.200.36.1,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,149.200.0.0/17, T-Mobile Hungary, AS5483,95c82401.dsl.pool.telekom.hu
+149.200.36.1,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,149.200.0.0/17, T-Mobile Hungary, AS5483,95c82401.dsl.pool.telekom.hu
+149.200.36.1,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,149.200.0.0/17, T-Mobile Hungary, AS5483,95c82401.dsl.pool.telekom.hu
+149.200.39.163,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,149.200.0.0/17, T-Mobile Hungary, AS5483,95c827a3.dsl.pool.telekom.hu
+149.200.39.163,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,149.200.0.0/17, T-Mobile Hungary, AS5483,95c827a3.dsl.pool.telekom.hu
+188.157.101.114,200, MT-BROADBAND-DYNAMIC-KTV, Magyar Telekom customers using dynamic IP CATV access,188.156.0.0/15, T-Mobile Hungary, AS5483,bc9d6572.catv.pool.telekom.hu
+188.157.101.114,200, MT-BROADBAND-DYNAMIC-KTV, Magyar Telekom customers using dynamic IP CATV access,188.156.0.0/15, T-Mobile Hungary, AS5483,bc9d6572.catv.pool.telekom.hu
+188.36.127.233,200, MT-BROADBAND-STATIC-DSL, Magyar Telekom customers using static IP DSL access,188.36.0.0/16, Hungarian Telekom, as5483,dslbc247fe9.fixip.t-online.hu
+188.36.127.233,200, MT-BROADBAND-STATIC-DSL, Magyar Telekom customers using static IP DSL access,188.36.0.0/16, Hungarian Telekom, as5483,dslbc247fe9.fixip.t-online.hu
+188.36.147.201,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,188.36.0.0/16, Hungarian Telekom, as5483,bc2493c9.dsl.pool.telekom.hu
+188.36.147.201,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,188.36.0.0/16, Hungarian Telekom, as5483,bc2493c9.dsl.pool.telekom.hu
+195.56.100.145,200, HU-HTC-960426,,195.56.0.0/16, GTS Hungary Ltd. Public Internet Access Provider Hungary, AS5588,mail.hovany.hu
+195.56.100.145,200, HU-HTC-960426,,195.56.0.0/16, GTS Hungary Ltd. Public Internet Access Provider Hungary, AS5588,mail.hovany.hu
+195.56.100.145,200, HU-HTC-960426,,195.56.0.0/16, GTS Hungary Ltd. Public Internet Access Provider Hungary, AS5588,mail.hovany.hu
+217.65.126.29,200, MT-BROADBAND-NAT-FIXEDLINE, Magyar Telekom customers using dynamic IP NAT pool,217.65.96.0/19217.65.96.0/19," T-Online Hungary. Public Internet Access Provider Szeged, Hungary HU T-Online Hungary. Public Internet Access Provider Szeged, Hungary HU", AS5483 AS8579,
+217.65.126.29,200, MT-BROADBAND-NAT-FIXEDLINE, Magyar Telekom customers using dynamic IP NAT pool,217.65.96.0/19217.65.96.0/19," T-Online Hungary. Public Internet Access Provider Szeged, Hungary HU T-Online Hungary. Public Internet Access Provider Szeged, Hungary HU", AS5483 AS8579,
+31.46.80.39,200, MT-BROADBAND-NAT-FIXEDLINE, Magyar Telekom customers using dynamic IP NAT pool,31.46.0.0/16, htc, as5483,1f2e5027.dsl.pool.telekom.hu
+31.46.88.79,200, MT-BROADBAND-NAT-FIXEDLINE, Magyar Telekom customers using dynamic IP NAT pool,31.46.0.0/16, htc, as5483,1f2e584f.dsl.pool.telekom.hu
+31.46.91.102,200, MT-BROADBAND-NAT-FIXEDLINE, Magyar Telekom customers using dynamic IP NAT pool,31.46.0.0/16, htc, as5483,1f2e5b66.dsl.pool.telekom.hu
+37.76.106.208,200, MT-BROADBAND-NAT-MOBILE, Public pool for mobile Internet users,37.76.0.0/1737.76.0.0/17, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 as5513,254c6ad0.nat.pool.telekom.hu
+37.76.127.8,200, MT-BROADBAND-NAT-MOBILE, Public pool for mobile Internet users,37.76.0.0/1737.76.0.0/17, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 as5513,254c7f08.nat.pool.telekom.hu
+37.76.17.157,200, MT-BROADBAND-NAT-MOBILE, Public pool for mobile Internet users,37.76.0.0/1737.76.0.0/17, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 as5513,254c119d.nat.pool.telekom.hu
+37.76.19.182,200, MT-BROADBAND-NAT-MOBILE, Public pool for mobile Internet users,37.76.0.0/1737.76.0.0/17, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 as5513,254c13b6.nat.pool.telekom.hu
+37.76.44.149,200, MT-BROADBAND-NAT-MOBILE, Public pool for mobile Internet users,37.76.0.0/1737.76.0.0/17, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 as5513,254c2c95.nat.pool.telekom.hu
+37.76.48.207,200, MT-BROADBAND-NAT-MOBILE, Public pool for mobile Internet users,37.76.0.0/1737.76.0.0/17, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 as5513,254c30cf.nat.pool.telekom.hu
+37.76.49.77,200, MT-BROADBAND-NAT-MOBILE, Public pool for mobile Internet users,37.76.0.0/1737.76.0.0/17, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 as5513,254c314d.nat.pool.telekom.hu
+46.107.230.122,200, SZATMARNET," Internet service SG450017 SzatmarNet Ltd. Zahony, Hungary",46.107.230.0/24, Szatmarnet, AS58098,46.107.230.122.szatmarnet.hu
+46.139.39.136,200, MT-BROADBAND-DYNAMIC-KTV, Magyar Telekom customers using dynamic IP CATV access,46.139.0.0/1646.139.0.0/16, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 AS5513,2e8b2788.catv.pool.telekom.hu
+46.139.39.136,200, MT-BROADBAND-DYNAMIC-KTV, Magyar Telekom customers using dynamic IP CATV access,46.139.0.0/1646.139.0.0/16, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 AS5513,2e8b2788.catv.pool.telekom.hu
+46.139.39.136,200, MT-BROADBAND-DYNAMIC-KTV, Magyar Telekom customers using dynamic IP CATV access,46.139.0.0/1646.139.0.0/16, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 AS5513,2e8b2788.catv.pool.telekom.hu
+46.139.39.136,200, MT-BROADBAND-DYNAMIC-KTV, Magyar Telekom customers using dynamic IP CATV access,46.139.0.0/1646.139.0.0/16, T-Mobile Hungary WESTEL 900 GSM Mobile telecommunication Company Ltd. H-1111 Budapest Kaposvar str. 5-7., AS5483 AS5513,2e8b2788.catv.pool.telekom.hu
+81.183.149.110,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,81.182.0.0/15," Hungarian Telecom Public Internet Access Provider Budapest, Hungary HU", AS5483,51b7956e.dsl.pool.telekom.hu
+81.183.149.110,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,81.182.0.0/15," Hungarian Telecom Public Internet Access Provider Budapest, Hungary HU", AS5483,51b7956e.dsl.pool.telekom.hu
+81.183.226.150,200, MT-BROADBAND-STATIC-DSL, Magyar Telekom customers using static IP DSL access,81.182.0.0/15," Hungarian Telecom Public Internet Access Provider Budapest, Hungary HU", AS5483,dsl51b7e296.fixip.t-online.hu
+81.183.226.150,200, MT-BROADBAND-STATIC-DSL, Magyar Telekom customers using static IP DSL access,81.182.0.0/15," Hungarian Telecom Public Internet Access Provider Budapest, Hungary HU", AS5483,dsl51b7e296.fixip.t-online.hu
+84.1.218.3,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.0.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,5401da03.dsl.pool.telekom.hu
+84.2.197.214,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,5402c5d6.dsl.pool.telekom.hu
+84.2.197.214,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,5402c5d6.dsl.pool.telekom.hu
+84.2.81.176,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,540251b0.dsl.pool.telekom.hu
+84.2.81.176,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,540251b0.dsl.pool.telekom.hu
+84.2.81.176,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,540251b0.dsl.pool.telekom.hu
+84.2.81.176,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,540251b0.dsl.pool.telekom.hu
+84.2.81.176,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,540251b0.dsl.pool.telekom.hu
+84.2.81.176,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,540251b0.dsl.pool.telekom.hu
+84.2.87.206,200, MT-BROADBAND-DYNAMIC-DSL, Magyar Telekom customers using dynamic IP DSL access,84.2.0.0/15," Magyar Telekom Budapest, Hungary HU", AS5483,540257ce.dsl.pool.telekom.hu
+87.101.125.44,200, HU-HTC-20060224,,87.101.112.0/20, SZARVAS-HU, AS5483,catvpool-57657d2c.szarvasnet.hu
+87.101.125.44,200, HU-HTC-20060224,,87.101.112.0/20, SZARVAS-HU, AS5483,catvpool-57657d2c.szarvasnet.hu
+87.101.125.44,200, HU-HTC-20060224,,87.101.112.0/20, SZARVAS-HU, AS5483,catvpool-57657d2c.szarvasnet.hu
+87.101.125.44,200, HU-HTC-20060224,,87.101.112.0/20, SZARVAS-HU, AS5483,catvpool-57657d2c.szarvasnet.hu
+87.101.125.44,200, HU-HTC-20060224,,87.101.112.0/20, SZARVAS-HU, AS5483,catvpool-57657d2c.szarvasnet.hu
+87.101.125.44,200, HU-HTC-20060224,,87.101.112.0/20, SZARVAS-HU, AS5483,catvpool-57657d2c.szarvasnet.hu
